@@ -1,2 +1,2 @@
-# C-hackerank-solution
+# C++-hackerank-solution
 All the solutions of hackerank questions.
